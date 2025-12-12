@@ -1,4 +1,4 @@
-## YummySphere Food Delivery Website
+## YummySphere Resturant and Food Delivery Website
 
 A responsive food delivery website built with HTML, CSS, and Bootstrap 5.
 
@@ -14,4 +14,5 @@ A responsive food delivery website built with HTML, CSS, and Bootstrap 5.
 - Bootstrap components for all functionality
 
 ## Project Structure
+
 
